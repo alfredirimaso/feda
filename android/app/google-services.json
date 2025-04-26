@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "926729540340",
+    "project_id": "feda-8ff30",
+    "storage_bucket": "feda-8ff30.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926729540340:android:b298d8f9687f76709604a1",
+        "android_client_info": {
+          "package_name": "com.example.feda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoY5tiZkvizFg0YMFeSEMWTulvhqagYxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
